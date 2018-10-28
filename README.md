@@ -1,3 +1,4 @@
+TypeScript Assignment
 
 Create a file called grocery.ts. It should have a definition of a class with the obvious name Grocery. The class should have some basic attributes such as name, quantity, etc. Feel free to add any other attributes you think will be necessary.
 
